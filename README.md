@@ -5,11 +5,17 @@ A collection of hands-on Cisco Packet Tracer projects covering core network engi
 🔧 What You’ll Find:
 
 Basic to advanced network topologies
+
 VLANs and trunking setups
+
 Static and dynamic routing (RIP, EIGRP, OSPF)
+
 Access Control Lists (ACLs)
+
 NAT, DHCP, and DNS configurations
+
 Simple firewall/security implementations
+
 Troubleshooting simulations
 
 🎯 Goal:
