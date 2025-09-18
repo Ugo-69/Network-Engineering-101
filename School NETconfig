@@ -1,7 +1,0 @@
-This configuration sets up a basic school network with VLAN segmentation and DHCP
-
-Below is a sample configuration file for a Cisco Packet Tracer project that sets up a basic school network.
-The network includes a router, a switch, and multiple PCs to simulate a small school LAN.
-The configuration includes VLANs for different departments (e.g., Staff and Students), DHCP for IP address assignment, and basic routing.
-The file is a text-based configuration that can be imported into Cisco Packet Tracer or used as a reference to configure devices.
-
